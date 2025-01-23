@@ -1,0 +1,226 @@
+campaign_id,campaign_name,date,target_audience,channel,impressions,clicks,conversions,spend,revenue_generated,roas
+565302,New User Discount,2024-01-01,All,App,491,54,74,85.78,159.88,3.03
+780820,Weekend Special,2024-01-01,All,SMS,453,265,66,63.04,223.5,3.85
+661084,Festival Offer,2024-01-01,New Users,App,623,292,13,92.62,340.16,2.99
+447208,Flash Sale,2024-01-01,Premium,App,918,58,41,59.03,475.46,3.61
+410299,Membership Drive,2024-01-01,All,Email,797,156,95,54.26,407.35,2.04
+728753,Category Promotion,2024-01-01,Premium,Email,678,67,91,91.46,184.69,3.95
+749082,App Push Notification,2024-01-01,New Users,Social Media,777,55,27,52.21,381.46,2.99
+716638,Email Campaign,2024-01-01,All,SMS,615,202,84,56.27,293.98,2.87
+15154,Referral Program,2024-01-01,New Users,App,995,168,84,99.4,211.11,1.93
+241821,New User Discount,2024-01-31,Inactive,App,874,115,44,89.63,272.67,3.93
+6194,Weekend Special,2024-01-31,New Users,Social Media,532,68,42,55.23,188.35,2.78
+596265,Festival Offer,2024-01-31,New Users,Social Media,876,131,43,59.11,166.99,1.7
+847691,Flash Sale,2024-01-31,Inactive,Social Media,963,95,38,82.95,327.02,1.62
+42877,Membership Drive,2024-01-31,Inactive,App,467,144,99,52.6,132.73,2.32
+141482,Category Promotion,2024-01-31,All,App,454,148,93,59.44,360.99,2.47
+946705,App Push Notification,2024-01-31,All,App,947,214,29,83.1,282.52,2.7
+300867,Email Campaign,2024-01-31,Premium,SMS,537,81,12,97.56,257.34,3.36
+539918,Referral Program,2024-01-31,New Users,SMS,942,164,54,53.26,463.35,1.57
+710297,New User Discount,2024-03-01,New Users,Email,975,83,69,81.73,437.26,2.09
+742695,Weekend Special,2024-03-01,New Users,Email,953,101,50,66.77,216.85,2.79
+97624,Festival Offer,2024-03-01,Premium,SMS,412,298,70,57.5,309.49,3.25
+225566,Flash Sale,2024-03-01,Inactive,SMS,586,175,23,64.87,311.96,2.54
+730676,Membership Drive,2024-03-01,Premium,Social Media,483,195,87,80.73,129.65,3.06
+18554,Category Promotion,2024-03-01,New Users,SMS,764,168,71,69.95,420.93,1.88
+552489,App Push Notification,2024-03-01,New Users,App,817,213,74,96.25,121.08,1.98
+223345,Email Campaign,2024-03-01,All,Social Media,758,107,22,69.28,142.1,3.94
+202399,Referral Program,2024-03-01,New Users,Social Media,757,188,28,84.0,140.92,3.65
+930471,New User Discount,2024-03-31,Premium,App,421,134,71,87.41,141.44,2.43
+956608,Weekend Special,2024-03-31,All,App,759,54,78,94.1,362.11,3.42
+870786,Festival Offer,2024-03-31,All,Email,842,275,25,73.97,172.18,1.75
+451123,Flash Sale,2024-03-31,New Users,Email,528,76,96,96.4,162.71,3.56
+379521,Membership Drive,2024-03-31,All,App,638,198,28,75.54,469.83,3.09
+997971,Category Promotion,2024-03-31,New Users,SMS,609,206,92,64.01,477.8,3.3
+611540,App Push Notification,2024-03-31,Inactive,Email,635,134,39,72.39,354.43,3.5
+922321,Email Campaign,2024-03-31,Premium,App,795,294,21,94.33,168.38,2.81
+1460,Referral Program,2024-03-31,New Users,SMS,993,177,23,55.61,219.47,2.86
+838026,New User Discount,2024-04-30,Premium,Social Media,750,163,74,57.65,407.59,1.81
+186259,Weekend Special,2024-04-30,All,SMS,588,90,52,54.36,420.85,1.7
+967248,Festival Offer,2024-04-30,All,App,929,255,40,92.78,249.84,2.46
+784179,Flash Sale,2024-04-30,Inactive,SMS,929,166,61,75.05,225.15,2.61
+452990,Membership Drive,2024-04-30,New Users,SMS,621,137,67,50.53,147.57,2.16
+132608,Category Promotion,2024-04-30,Premium,Social Media,418,166,70,69.78,267.02,3.33
+807183,App Push Notification,2024-04-30,All,Social Media,475,230,28,68.5,476.64,2.32
+362594,Email Campaign,2024-04-30,All,Social Media,573,129,87,99.26,330.55,2.82
+499765,Referral Program,2024-04-30,All,SMS,590,112,26,93.6,187.46,3.84
+69342,New User Discount,2024-05-30,New Users,SMS,632,194,78,53.13,484.62,3.45
+342640,Weekend Special,2024-05-30,All,App,917,128,21,78.1,281.24,2.79
+56824,Festival Offer,2024-05-30,Inactive,Social Media,636,232,28,71.42,269.97,3.3
+800308,Flash Sale,2024-05-30,New Users,Email,492,264,46,80.6,194.32,3.12
+973024,Membership Drive,2024-05-30,New Users,Social Media,517,195,97,89.4,434.18,2.78
+894444,Category Promotion,2024-05-30,Inactive,App,980,233,26,50.8,312.71,1.94
+248613,App Push Notification,2024-05-30,All,Email,511,262,76,73.67,181.01,3.76
+892534,Email Campaign,2024-05-30,Premium,Email,759,132,65,54.59,255.08,1.51
+823632,Referral Program,2024-05-30,New Users,Email,674,104,68,64.26,208.81,2.16
+252930,New User Discount,2024-06-29,New Users,App,627,217,85,61.42,341.61,2.38
+926853,Weekend Special,2024-06-29,Inactive,Social Media,594,251,14,54.6,124.57,2.54
+552296,Festival Offer,2024-06-29,Inactive,App,507,279,46,54.76,307.33,2.19
+541407,Flash Sale,2024-06-29,All,SMS,694,178,63,57.13,101.38,3.9
+693556,Membership Drive,2024-06-29,Inactive,App,519,234,55,90.22,105.3,1.83
+773450,Category Promotion,2024-06-29,Premium,Social Media,543,212,65,56.76,332.14,3.93
+732887,App Push Notification,2024-06-29,All,Email,618,272,48,78.68,362.99,3.01
+739072,Email Campaign,2024-06-29,Inactive,SMS,762,173,75,97.05,196.44,3.19
+482492,Referral Program,2024-06-29,Inactive,SMS,420,92,64,50.32,406.23,1.99
+195231,New User Discount,2024-07-29,Inactive,Email,637,162,41,56.36,307.87,3.41
+290716,Weekend Special,2024-07-29,New Users,Email,459,188,51,95.62,276.24,2.09
+253979,Festival Offer,2024-07-29,New Users,Social Media,849,182,93,57.7,155.89,3.47
+985360,Flash Sale,2024-07-29,Inactive,Social Media,644,184,73,89.44,223.2,1.99
+272434,Membership Drive,2024-07-29,Inactive,Social Media,445,71,55,97.43,373.92,3.01
+216839,Category Promotion,2024-07-29,Inactive,App,659,177,59,80.01,278.51,1.59
+400138,App Push Notification,2024-07-29,Inactive,App,712,270,61,81.7,295.23,2.12
+963592,Email Campaign,2024-07-29,Premium,App,799,239,40,80.49,184.3,1.82
+493310,Referral Program,2024-07-29,Premium,Email,887,115,29,87.14,261.04,3.42
+563021,New User Discount,2024-08-28,New Users,Email,429,83,87,82.46,306.45,2.17
+519662,Weekend Special,2024-08-28,Inactive,SMS,820,218,11,51.15,388.85,3.35
+119577,Festival Offer,2024-08-28,All,Social Media,588,102,74,57.31,200.96,2.9
+692461,Flash Sale,2024-08-28,All,Email,851,171,52,85.78,263.01,3.57
+700737,Membership Drive,2024-08-28,Premium,App,767,281,41,85.23,432.91,3.12
+287916,Category Promotion,2024-08-28,Premium,SMS,765,241,63,71.68,142.27,3.5
+38773,App Push Notification,2024-08-28,Inactive,Social Media,591,128,94,59.97,315.36,2.29
+173234,Email Campaign,2024-08-28,New Users,App,764,249,88,96.65,149.02,2.64
+969088,Referral Program,2024-08-28,Premium,SMS,598,140,63,96.09,424.75,1.94
+179483,New User Discount,2024-09-27,New Users,Social Media,861,81,20,67.2,210.99,3.96
+553175,Weekend Special,2024-09-27,Inactive,App,958,123,95,87.99,417.87,3.12
+948371,Festival Offer,2024-09-27,New Users,SMS,893,107,75,55.54,364.01,2.0
+961084,Flash Sale,2024-09-27,Premium,SMS,916,170,69,62.43,294.04,2.38
+193898,Membership Drive,2024-09-27,New Users,Email,830,227,99,70.63,421.19,3.88
+950863,Category Promotion,2024-09-27,Premium,Email,829,240,75,73.08,347.77,3.08
+351797,App Push Notification,2024-09-27,Inactive,SMS,433,268,97,83.14,440.29,2.9
+181016,Email Campaign,2024-09-27,All,SMS,896,189,31,56.78,391.4,2.2
+434418,Referral Program,2024-09-27,Inactive,Social Media,998,296,89,95.47,445.43,2.6
+919715,New User Discount,2024-10-27,New Users,App,619,297,37,54.37,411.66,2.93
+385238,Weekend Special,2024-10-27,Premium,Email,957,62,38,98.06,417.65,2.46
+595569,Festival Offer,2024-10-27,Premium,App,848,160,28,63.58,364.2,1.94
+276791,Flash Sale,2024-10-27,All,SMS,737,170,77,58.0,246.59,1.83
+564750,Membership Drive,2024-10-27,Premium,SMS,952,95,82,59.77,413.03,3.43
+534694,Category Promotion,2024-10-27,New Users,SMS,630,298,23,94.38,473.35,3.26
+960182,App Push Notification,2024-10-27,All,App,978,144,63,74.53,262.09,3.64
+179161,Email Campaign,2024-10-27,New Users,Email,610,176,82,96.58,457.18,1.69
+887548,Referral Program,2024-10-27,Inactive,Email,941,120,91,72.95,420.65,3.23
+311160,New User Discount,2024-11-26,Premium,SMS,927,275,93,71.49,227.74,2.29
+299857,Weekend Special,2024-11-26,Premium,Social Media,947,200,59,75.25,207.36,3.82
+280715,Festival Offer,2024-11-26,Premium,Social Media,447,94,56,78.13,435.04,2.95
+17582,Flash Sale,2024-11-26,Premium,Email,745,161,100,69.61,196.09,1.81
+976890,Membership Drive,2024-11-26,New Users,SMS,902,270,47,90.49,142.68,1.84
+635051,Category Promotion,2024-11-26,All,App,969,100,68,56.91,377.57,2.02
+430572,App Push Notification,2024-11-26,New Users,SMS,721,149,38,98.31,173.68,1.71
+697336,Email Campaign,2024-11-26,Inactive,App,457,80,20,62.65,145.83,1.89
+897354,Referral Program,2024-11-26,New Users,Email,487,216,10,64.26,265.35,2.29
+9915,New User Discount,2024-12-26,New Users,App,523,87,92,59.26,141.3,2.63
+856755,Weekend Special,2024-12-26,Inactive,Social Media,828,185,17,74.21,190.33,3.63
+510985,Festival Offer,2024-12-26,All,App,898,77,32,63.07,436.97,3.07
+703472,Flash Sale,2024-12-26,Inactive,SMS,833,207,61,76.03,237.83,3.88
+215306,Membership Drive,2024-12-26,All,Email,747,134,77,58.07,456.94,1.58
+122911,Category Promotion,2024-12-26,New Users,Email,694,203,52,83.3,252.6,3.55
+612062,App Push Notification,2024-12-26,New Users,App,539,160,46,86.47,277.13,1.74
+780160,Email Campaign,2024-12-26,New Users,Email,964,276,67,63.03,221.68,1.57
+128104,Referral Program,2024-12-26,Inactive,SMS,616,132,23,80.72,156.09,3.59
+256374,New User Discount,2025-01-25,Premium,Email,404,78,82,92.1,305.38,3.2
+197479,Weekend Special,2025-01-25,New Users,SMS,503,192,67,89.0,474.84,2.59
+485466,Festival Offer,2025-01-25,All,Social Media,968,82,93,50.93,193.24,3.81
+707167,Flash Sale,2025-01-25,Inactive,Email,887,137,36,51.56,332.48,3.65
+707812,Membership Drive,2025-01-25,New Users,Social Media,724,290,100,50.24,189.8,2.78
+951093,Category Promotion,2025-01-25,All,Social Media,796,69,33,92.67,287.42,2.46
+271657,App Push Notification,2025-01-25,Premium,App,875,260,29,81.23,192.01,2.72
+699765,Email Campaign,2025-01-25,All,Email,725,188,38,95.43,471.29,3.16
+121797,Referral Program,2025-01-25,Premium,SMS,532,128,38,82.92,114.19,2.54
+908983,New User Discount,2025-02-24,All,Email,786,199,65,81.45,140.23,2.06
+77785,Weekend Special,2025-02-24,All,Email,543,113,32,79.46,431.66,2.15
+150496,Festival Offer,2025-02-24,Inactive,SMS,478,63,10,91.73,252.25,1.55
+84754,Flash Sale,2025-02-24,New Users,Email,813,272,23,66.33,441.68,1.9
+330035,Membership Drive,2025-02-24,New Users,Social Media,889,209,39,95.22,478.68,1.98
+756100,Category Promotion,2025-02-24,All,App,689,101,77,69.99,493.29,3.0
+50756,App Push Notification,2025-02-24,All,SMS,826,92,98,95.14,405.73,1.74
+351588,Email Campaign,2025-02-24,New Users,App,973,200,66,55.17,271.86,2.21
+984295,Referral Program,2025-02-24,All,SMS,637,217,94,76.94,116.82,2.45
+465652,New User Discount,2025-03-26,Premium,Social Media,936,61,76,88.93,295.07,1.95
+892318,Weekend Special,2025-03-26,Inactive,Email,989,240,21,97.62,355.38,2.56
+862202,Festival Offer,2025-03-26,Inactive,Email,898,119,68,80.16,176.35,3.93
+792604,Flash Sale,2025-03-26,New Users,App,884,156,72,69.99,418.47,3.94
+310598,Membership Drive,2025-03-26,Inactive,Social Media,853,288,24,67.14,280.3,4.0
+917018,Category Promotion,2025-03-26,Premium,Email,840,61,29,89.12,295.9,1.91
+257226,App Push Notification,2025-03-26,All,Email,408,101,42,69.68,101.32,2.05
+710706,Email Campaign,2025-03-26,Inactive,Email,992,217,71,77.81,458.51,2.88
+850264,Referral Program,2025-03-26,Premium,Email,520,178,87,93.45,314.17,2.31
+754210,New User Discount,2025-04-25,Inactive,Email,664,242,65,74.84,462.19,1.61
+639041,Weekend Special,2025-04-25,Inactive,Email,492,238,72,76.64,239.54,3.93
+977242,Festival Offer,2025-04-25,All,Social Media,936,150,99,57.54,374.9,2.79
+932672,Flash Sale,2025-04-25,Inactive,Social Media,484,172,37,86.83,231.09,2.71
+609444,Membership Drive,2025-04-25,Premium,SMS,735,182,40,74.16,319.05,1.96
+495246,Category Promotion,2025-04-25,All,App,982,62,44,60.44,208.15,3.49
+629400,App Push Notification,2025-04-25,Inactive,SMS,407,261,82,64.1,151.55,2.11
+853522,Email Campaign,2025-04-25,All,Email,521,272,21,73.43,415.27,3.5
+969619,Referral Program,2025-04-25,All,Social Media,433,89,14,58.11,407.74,3.54
+918100,New User Discount,2025-05-25,Inactive,SMS,775,88,52,65.39,258.79,2.08
+420112,Weekend Special,2025-05-25,Inactive,SMS,970,251,32,69.52,129.23,2.73
+298749,Festival Offer,2025-05-25,Premium,Email,988,229,87,72.91,202.3,2.17
+173493,Flash Sale,2025-05-25,New Users,App,682,51,50,55.24,461.57,1.62
+2395,Membership Drive,2025-05-25,Premium,Social Media,690,274,64,51.13,305.32,3.68
+902279,Category Promotion,2025-05-25,All,SMS,679,103,15,57.53,129.07,1.79
+138127,App Push Notification,2025-05-25,Premium,Email,408,166,15,59.49,286.59,1.58
+656573,Email Campaign,2025-05-25,Inactive,SMS,774,176,49,80.33,402.16,3.56
+766039,Referral Program,2025-05-25,Inactive,App,799,155,99,66.9,378.05,2.83
+136364,New User Discount,2025-06-24,All,Email,606,125,88,81.46,369.5,2.72
+981581,Weekend Special,2025-06-24,Inactive,App,990,273,68,85.29,383.29,2.47
+419233,Festival Offer,2025-06-24,New Users,Email,822,101,22,76.91,300.07,2.12
+939842,Flash Sale,2025-06-24,Premium,SMS,945,78,58,71.52,451.3,2.7
+757065,Membership Drive,2025-06-24,Premium,Social Media,807,143,99,89.47,164.16,1.74
+366596,Category Promotion,2025-06-24,All,Social Media,649,190,27,82.57,419.72,3.21
+939762,App Push Notification,2025-06-24,New Users,Email,555,51,49,83.07,301.0,3.06
+969114,Email Campaign,2025-06-24,Premium,Email,905,268,85,55.7,389.39,3.12
+256470,Referral Program,2025-06-24,New Users,Social Media,850,204,59,72.92,334.87,3.97
+428817,New User Discount,2025-07-24,New Users,Email,619,57,32,93.04,236.0,1.75
+401850,Weekend Special,2025-07-24,Inactive,Email,552,225,57,92.9,128.49,2.51
+452171,Festival Offer,2025-07-24,Premium,App,406,133,55,59.87,220.56,3.99
+986032,Flash Sale,2025-07-24,New Users,App,527,125,23,75.59,233.36,3.83
+663899,Membership Drive,2025-07-24,Premium,SMS,889,300,88,69.63,452.66,1.86
+752846,Category Promotion,2025-07-24,Premium,App,555,145,21,95.12,234.02,3.01
+640645,App Push Notification,2025-07-24,New Users,Social Media,973,217,95,88.54,256.4,1.7
+853026,Email Campaign,2025-07-24,All,Social Media,917,139,53,56.14,206.52,1.7
+732007,Referral Program,2025-07-24,All,Email,699,148,28,91.21,235.75,3.91
+503738,New User Discount,2025-08-23,New Users,SMS,776,156,49,84.8,444.65,2.04
+555032,Weekend Special,2025-08-23,Inactive,App,906,204,59,78.75,353.51,1.62
+964768,Festival Offer,2025-08-23,Premium,Social Media,836,126,81,85.6,126.68,3.28
+400019,Flash Sale,2025-08-23,All,Social Media,972,114,39,53.07,320.34,3.05
+725623,Membership Drive,2025-08-23,New Users,App,559,292,81,58.38,326.39,3.63
+677070,Category Promotion,2025-08-23,Inactive,SMS,740,51,25,97.45,436.79,3.86
+608527,App Push Notification,2025-08-23,All,SMS,464,280,72,84.99,412.42,1.88
+377172,Email Campaign,2025-08-23,Inactive,SMS,401,143,77,63.45,442.83,3.26
+650550,Referral Program,2025-08-23,Inactive,SMS,530,236,52,88.59,438.19,2.64
+542022,New User Discount,2025-09-22,Premium,Email,746,297,28,95.18,261.1,2.05
+550642,Weekend Special,2025-09-22,Inactive,App,661,189,33,78.2,440.15,3.63
+180281,Festival Offer,2025-09-22,Inactive,Email,991,117,87,64.96,122.0,1.96
+340174,Flash Sale,2025-09-22,Premium,Email,723,194,36,87.65,464.83,1.98
+413999,Membership Drive,2025-09-22,Premium,SMS,501,198,19,81.51,168.14,2.12
+854889,Category Promotion,2025-09-22,Premium,Social Media,556,84,78,64.09,404.44,3.38
+798093,App Push Notification,2025-09-22,All,App,745,119,67,63.37,104.87,3.57
+759784,Email Campaign,2025-09-22,All,App,934,108,99,57.81,287.26,3.73
+311554,Referral Program,2025-09-22,Inactive,Social Media,478,127,42,90.83,475.08,2.14
+681320,New User Discount,2025-10-22,Premium,App,713,288,17,55.16,328.74,1.78
+268999,Weekend Special,2025-10-22,Premium,SMS,927,231,43,61.86,111.09,2.04
+615085,Festival Offer,2025-10-22,New Users,Email,545,107,37,82.14,232.77,3.94
+996866,Flash Sale,2025-10-22,All,App,657,267,44,54.94,219.74,2.46
+427926,Membership Drive,2025-10-22,New Users,Email,873,266,52,95.85,348.27,3.56
+577672,Category Promotion,2025-10-22,New Users,Email,744,268,42,93.64,460.17,2.17
+948047,App Push Notification,2025-10-22,Inactive,SMS,846,71,71,51.67,444.48,3.44
+370070,Email Campaign,2025-10-22,New Users,App,881,69,49,81.71,380.92,3.35
+299591,Referral Program,2025-10-22,New Users,SMS,768,268,69,71.46,415.31,3.94
+89988,New User Discount,2025-11-21,New Users,Social Media,432,245,89,70.41,297.08,2.79
+238044,Weekend Special,2025-11-21,All,Social Media,742,119,71,85.18,373.4,2.1
+311273,Festival Offer,2025-11-21,All,SMS,661,289,51,50.07,125.26,1.56
+201122,Flash Sale,2025-11-21,Inactive,SMS,498,114,59,99.52,154.58,2.58
+519733,Membership Drive,2025-11-21,Inactive,Social Media,450,141,52,96.22,366.2,2.52
+840846,Category Promotion,2025-11-21,Premium,Email,962,128,35,66.15,463.84,1.92
+596315,App Push Notification,2025-11-21,Premium,App,676,226,69,81.08,110.02,3.86
+905774,Email Campaign,2025-11-21,Premium,SMS,732,59,63,72.79,226.7,1.81
+4729,Referral Program,2025-11-21,All,Social Media,534,276,49,73.61,202.37,3.8
+342185,New User Discount,2025-12-21,Premium,SMS,982,201,29,82.04,126.47,3.5
+99338,Weekend Special,2025-12-21,All,Social Media,611,51,53,64.22,233.8,3.02
+333754,Festival Offer,2025-12-21,All,SMS,420,97,44,84.16,201.42,2.84
+800064,Flash Sale,2025-12-21,Premium,Email,881,163,37,52.94,404.49,3.6
+544815,Membership Drive,2025-12-21,New Users,SMS,723,290,76,95.29,482.67,1.68
+535170,Category Promotion,2025-12-21,All,Email,590,73,66,74.57,103.63,2.77
+542765,App Push Notification,2025-12-21,Inactive,App,593,227,71,57.49,250.67,2.64
+747607,Email Campaign,2025-12-21,Premium,SMS,996,79,26,92.26,179.62,2.33
+39403,Referral Program,2025-12-21,Inactive,Email,919,211,26,84.12,229.47,2.39

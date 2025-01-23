@@ -1,0 +1,201 @@
+feedback_id,order_id,customer_id,rating,feedback_text,feedback_category,sentiment
+64892,8691548842,77521082,3,The delivery was on time and the quality was great.,Delivery,Negative
+8710747,6364960327,83090932,5,Customer service was excellent and responsive.,Product Quality,Positive
+1869243,4664877292,93081685,4,"Packaging could be improved, but the product is good.",Delivery,Positive
+6466140,6662540387,69790288,4,Highly recommend this service for groceries!,Delivery,Positive
+6151300,1026363334,99452902,4,Customer service was excellent and responsive.,Delivery,Positive
+4563957,141439255,56876436,2,"Packaging could be improved, but the product is good.",App Experience,Negative
+147868,6804634336,74866086,5,The delivery was on time and the quality was great.,Customer Service,Positive
+2350942,4310867146,91138946,4,The delivery was on time and the quality was great.,App Experience,Neutral
+8238303,3189044068,69790288,3,"Packaging could be improved, but the product is good.",Product Quality,Negative
+5198678,8189621142,67054149,4,The product was damaged during shipping.,App Experience,Neutral
+9056171,7911397138,93081685,4,"Packaging could be improved, but the product is good.",Product Quality,Positive
+6174842,7871147156,1209022,5,The delivery was on time and the quality was great.,Product Quality,Positive
+1695773,9571761527,91138946,4,Very satisfied with the quick delivery.,App Experience,Positive
+6551720,507815882,95741347,5,"Packaging could be improved, but the product is good.",Customer Service,Positive
+346217,7552944603,6923984,4,"Packaging could be improved, but the product is good.",Customer Service,Neutral
+2604971,2149850298,69790288,4,Highly recommend this service for groceries!,Delivery,Positive
+4025713,8173445335,20006697,4,Highly recommend this service for groceries!,Customer Service,Positive
+8228900,1890905753,2953489,2,"Packaging could be improved, but the product is good.",Delivery,Negative
+2644755,8581579584,15883440,5,Customer service was excellent and responsive.,Customer Service,Positive
+5992703,8175448056,60521480,4,The app experience was smooth and user-friendly.,Delivery,Positive
+1356320,4904944422,54397323,4,Customer service was excellent and responsive.,Delivery,Neutral
+7855595,7510088626,44921361,4,The app experience was smooth and user-friendly.,App Experience,Positive
+3617512,7951319675,91138946,4,"Packaging could be improved, but the product is good.",Delivery,Neutral
+17291,2282101658,40264777,4,"Packaging could be improved, but the product is good.",Delivery,Positive
+1702828,6030651311,69927732,5,Highly recommend this service for groceries!,Delivery,Positive
+7670039,8683336804,79103257,5,The product was damaged during shipping.,Delivery,Positive
+6369332,9415086285,43674005,5,Very satisfied with the quick delivery.,App Experience,Positive
+12145,7383394053,92229930,5,Customer service was excellent and responsive.,Customer Service,Positive
+2232913,3413485078,99880046,4,Very satisfied with the quick delivery.,Product Quality,Positive
+6626739,3880077248,7725726,3,Highly recommend this service for groceries!,Delivery,Negative
+7951320,6348056007,44450895,4,The delivery was on time and the quality was great.,Customer Service,Positive
+8032134,4962533381,82959961,5,The delivery was on time and the quality was great.,Customer Service,Positive
+4772630,1058721317,33589046,4,Customer service was excellent and responsive.,Delivery,Positive
+7868871,9700675093,44921361,5,Customer service was excellent and responsive.,App Experience,Positive
+1078462,51500637,80802319,4,The delivery was on time and the quality was great.,App Experience,Positive
+8493641,9289520869,80802319,4,"Packaging could be improved, but the product is good.",Customer Service,Positive
+9222655,6330173457,1209022,5,Very satisfied with the quick delivery.,Customer Service,Positive
+4486129,4957435661,95741347,3,The app experience was smooth and user-friendly.,Delivery,Neutral
+44469,1111661454,80802319,4,Customer service was excellent and responsive.,Delivery,Positive
+2100687,11345933,74534166,4,"Packaging could be improved, but the product is good.",Product Quality,Neutral
+5916231,1097406536,21813392,4,The app experience was smooth and user-friendly.,App Experience,Positive
+6414311,1327003520,29177133,4,Highly recommend this service for groceries!,Product Quality,Positive
+1242889,2000423145,46670771,5,The product was damaged during shipping.,App Experience,Positive
+4686719,4796040783,89330289,4,Very satisfied with the quick delivery.,App Experience,Neutral
+9872134,3632178084,40264777,3,Very satisfied with the quick delivery.,Product Quality,Neutral
+8976494,970931176,29353842,4,The app experience was smooth and user-friendly.,Delivery,Positive
+9299329,1862963089,80802319,1,The product was damaged during shipping.,Delivery,Negative
+2336213,2260338569,70191417,5,The delivery was on time and the quality was great.,Delivery,Positive
+3687346,3892687526,83090932,4,The delivery was on time and the quality was great.,Delivery,Positive
+5151056,2981950794,46719658,4,Customer service was excellent and responsive.,App Experience,Positive
+9322727,2805810012,40264777,4,Highly recommend this service for groceries!,Customer Service,Positive
+1674822,7344862118,99452902,3,"Packaging could be improved, but the product is good.",App Experience,Neutral
+5786021,6980305490,16657999,4,Customer service was excellent and responsive.,App Experience,Positive
+3066746,2887602985,7725726,5,Customer service was excellent and responsive.,Customer Service,Positive
+6508279,7642926061,7647589,2,The app experience was smooth and user-friendly.,Product Quality,Negative
+1466316,7366553363,16074944,3,Very satisfied with the quick delivery.,App Experience,Negative
+9724068,157437910,56876436,4,The product was damaged during shipping.,Product Quality,Neutral
+4244353,9561876586,4903502,4,The delivery was on time and the quality was great.,Delivery,Positive
+6342696,3443260674,90833666,4,The product was damaged during shipping.,App Experience,Positive
+2337207,8166459795,80802319,4,The delivery was on time and the quality was great.,App Experience,Positive
+8569453,3590764331,44360919,3,The delivery was on time and the quality was great.,Customer Service,Neutral
+3633165,3370044905,91138946,4,The product was damaged during shipping.,Customer Service,Positive
+7152495,243793179,89388205,5,Highly recommend this service for groceries!,Product Quality,Positive
+8459904,6757161831,69790288,4,Customer service was excellent and responsive.,Customer Service,Neutral
+4243063,5294100736,64477799,4,"Packaging could be improved, but the product is good.",Delivery,Positive
+7516346,6881313417,16074944,5,"Packaging could be improved, but the product is good.",Delivery,Positive
+6270262,4473403145,24311724,4,The delivery was on time and the quality was great.,Delivery,Positive
+4813330,9974514384,61155608,4,"Packaging could be improved, but the product is good.",Delivery,Positive
+8128572,738981728,34271147,4,Customer service was excellent and responsive.,Customer Service,Positive
+9398616,8742228446,22387388,4,The app experience was smooth and user-friendly.,Customer Service,Positive
+6477762,4788436867,16074944,3,The delivery was on time and the quality was great.,Product Quality,Negative
+9550588,3351229578,4903502,4,"Packaging could be improved, but the product is good.",App Experience,Positive
+624023,8144295027,22387388,5,Customer service was excellent and responsive.,Delivery,Positive
+5714797,1250280759,74534166,4,The delivery was on time and the quality was great.,Product Quality,Neutral
+1046580,1514120983,23047093,3,Very satisfied with the quick delivery.,Product Quality,Neutral
+3107426,2799657139,44921361,3,Customer service was excellent and responsive.,Delivery,Negative
+6629619,4472211891,29636134,4,"Packaging could be improved, but the product is good.",Product Quality,Neutral
+9479485,4572966827,64536234,4,Highly recommend this service for groceries!,Customer Service,Positive
+4431903,3415383272,29177133,4,Highly recommend this service for groceries!,Delivery,Positive
+6020475,879781857,99452902,5,The product was damaged during shipping.,Delivery,Positive
+7885512,5960521320,80802319,5,Customer service was excellent and responsive.,Delivery,Positive
+2269865,3844546480,4154132,5,The product was damaged during shipping.,Delivery,Positive
+5386399,7822325052,21813392,4,Very satisfied with the quick delivery.,Delivery,Positive
+8298118,4632845328,22387388,4,The app experience was smooth and user-friendly.,App Experience,Positive
+9003055,1643497799,67054149,5,The delivery was on time and the quality was great.,Delivery,Positive
+3223051,8443361170,15883440,5,Customer service was excellent and responsive.,App Experience,Positive
+4939746,6139578059,82574593,4,Customer service was excellent and responsive.,Delivery,Neutral
+464898,7390091118,99452902,5,The delivery was on time and the quality was great.,App Experience,Positive
+2486992,5078889915,24311724,3,The app experience was smooth and user-friendly.,Delivery,Negative
+7767726,3460340212,40264777,5,The product was damaged during shipping.,Customer Service,Positive
+6654258,7593796787,99452902,4,Highly recommend this service for groceries!,App Experience,Neutral
+4633726,7481718673,87607495,4,The app experience was smooth and user-friendly.,Delivery,Positive
+7675666,4232500463,43674005,3,The app experience was smooth and user-friendly.,Delivery,Negative
+7747440,8681683219,17296128,1,Highly recommend this service for groceries!,Product Quality,Negative
+5377103,7913049818,85442759,4,"Packaging could be improved, but the product is good.",App Experience,Positive
+2809970,3458462713,46670771,5,Customer service was excellent and responsive.,Delivery,Positive
+9546108,3145087064,78637298,4,The product was damaged during shipping.,Customer Service,Positive
+8140037,3874876249,74534166,4,"Packaging could be improved, but the product is good.",Delivery,Positive
+8727814,5389002738,31769923,3,The app experience was smooth and user-friendly.,App Experience,Neutral
+4581887,5603844553,70191417,5,"Packaging could be improved, but the product is good.",Delivery,Positive
+4764003,4985624290,6456463,5,The app experience was smooth and user-friendly.,Product Quality,Positive
+1775320,5206044473,93081685,1,The app experience was smooth and user-friendly.,App Experience,Negative
+6826240,972144193,80802319,3,"Packaging could be improved, but the product is good.",Customer Service,Neutral
+6008291,2583578167,13655574,5,"Packaging could be improved, but the product is good.",Customer Service,Positive
+2794018,8887259212,89330289,5,Very satisfied with the quick delivery.,App Experience,Positive
+7623388,9350219325,95741347,4,Highly recommend this service for groceries!,Delivery,Neutral
+9307714,1172715204,91376200,5,The delivery was on time and the quality was great.,Customer Service,Positive
+6256135,4760774668,56876436,4,"Packaging could be improved, but the product is good.",Product Quality,Positive
+5996049,5644291324,77521082,3,The delivery was on time and the quality was great.,Delivery,Negative
+6937620,3607307546,4945794,1,The app experience was smooth and user-friendly.,Delivery,Negative
+7983755,9052191172,46670771,5,Very satisfied with the quick delivery.,App Experience,Positive
+5413727,224400818,29636134,4,The app experience was smooth and user-friendly.,Customer Service,Positive
+509975,5511956156,69790288,4,Customer service was excellent and responsive.,Product Quality,Positive
+3275896,1707976372,6923984,4,Customer service was excellent and responsive.,Delivery,Positive
+1974766,5076970335,83685925,5,Customer service was excellent and responsive.,Delivery,Positive
+8268556,2153434688,78637298,3,"Packaging could be improved, but the product is good.",Customer Service,Neutral
+5282229,6417408453,29353842,3,Very satisfied with the quick delivery.,Delivery,Neutral
+5694610,2423987768,80802319,3,Very satisfied with the quick delivery.,Product Quality,Neutral
+9095676,8123707423,58128682,5,The delivery was on time and the quality was great.,Product Quality,Positive
+1385984,7799395826,5359513,5,Highly recommend this service for groceries!,Product Quality,Positive
+9122518,1102541074,32711871,4,The app experience was smooth and user-friendly.,Product Quality,Positive
+6814137,62026419,15883440,5,Very satisfied with the quick delivery.,Customer Service,Positive
+6805485,4955272268,34768972,4,"Packaging could be improved, but the product is good.",Product Quality,Positive
+6957340,2241642225,78637298,3,Very satisfied with the quick delivery.,Product Quality,Neutral
+2677033,7758849641,88475109,4,The product was damaged during shipping.,App Experience,Positive
+2809067,2171312022,10476482,5,The product was damaged during shipping.,Product Quality,Positive
+5226492,6455467007,93182738,4,The app experience was smooth and user-friendly.,Product Quality,Positive
+5089869,709620208,82588078,4,The product was damaged during shipping.,Delivery,Positive
+1201007,9472091789,5359513,4,The product was damaged during shipping.,App Experience,Positive
+5118218,1207603313,82959961,5,"Packaging could be improved, but the product is good.",Customer Service,Positive
+2473440,6623707530,82588078,4,Customer service was excellent and responsive.,Delivery,Positive
+4758180,9059851527,44360919,5,Customer service was excellent and responsive.,Customer Service,Positive
+6895611,3327499102,16657999,4,The product was damaged during shipping.,Customer Service,Positive
+766417,5857729962,83188879,3,Customer service was excellent and responsive.,Customer Service,Neutral
+2642302,286584818,79510406,3,The product was damaged during shipping.,Delivery,Neutral
+9697410,5514179888,90833666,4,"Packaging could be improved, but the product is good.",Customer Service,Neutral
+9023951,7128044248,61155608,4,The app experience was smooth and user-friendly.,Delivery,Positive
+1298715,8678604328,44450294,1,Highly recommend this service for groceries!,Product Quality,Negative
+464543,2529584533,83090932,5,Very satisfied with the quick delivery.,App Experience,Positive
+1230885,5238073935,89330289,5,"Packaging could be improved, but the product is good.",Delivery,Positive
+6275306,8730624491,21813392,4,Highly recommend this service for groceries!,Product Quality,Positive
+5885486,1081084054,40264777,5,Customer service was excellent and responsive.,Delivery,Positive
+9052859,6250581265,82959961,4,Customer service was excellent and responsive.,Delivery,Neutral
+7597344,7535178506,16657999,4,The delivery was on time and the quality was great.,Product Quality,Positive
+3137847,5388164709,78637298,4,Customer service was excellent and responsive.,Delivery,Positive
+8583365,3946099200,10476482,4,The delivery was on time and the quality was great.,Product Quality,Positive
+5022461,4610175125,68762442,4,The app experience was smooth and user-friendly.,Customer Service,Positive
+9404081,511094556,33696325,3,The app experience was smooth and user-friendly.,Customer Service,Neutral
+3933963,6877207146,74866086,5,Customer service was excellent and responsive.,Delivery,Positive
+5152938,6726275885,79103257,5,The product was damaged during shipping.,Product Quality,Positive
+1377438,7596225784,93081685,5,The product was damaged during shipping.,Delivery,Positive
+5161517,5617706770,82959961,5,"Packaging could be improved, but the product is good.",Delivery,Positive
+2400892,6308236697,1209022,5,Very satisfied with the quick delivery.,Product Quality,Positive
+7849855,8356015015,60521480,3,Very satisfied with the quick delivery.,Delivery,Neutral
+8973157,5608615745,22387388,5,Very satisfied with the quick delivery.,Product Quality,Positive
+3759338,106457984,89330289,4,Very satisfied with the quick delivery.,Delivery,Positive
+8523899,2295040606,7725726,4,"Packaging could be improved, but the product is good.",App Experience,Positive
+6882881,2050495150,43674005,4,Customer service was excellent and responsive.,Delivery,Positive
+3867889,885757021,29177133,4,"Packaging could be improved, but the product is good.",Delivery,Positive
+1739175,7590821747,20006697,4,Very satisfied with the quick delivery.,Product Quality,Positive
+6365338,3032923663,58128682,4,The product was damaged during shipping.,Product Quality,Positive
+2528886,1373992313,16657999,5,The app experience was smooth and user-friendly.,Delivery,Positive
+4490346,3279270743,29636134,4,Highly recommend this service for groceries!,Customer Service,Neutral
+7786146,9059268000,24311724,5,Highly recommend this service for groceries!,Delivery,Positive
+2212358,6533793505,16657999,3,Customer service was excellent and responsive.,Customer Service,Neutral
+8096313,3466693173,45223143,5,"Packaging could be improved, but the product is good.",App Experience,Positive
+5932364,9399040020,6923984,5,The delivery was on time and the quality was great.,Product Quality,Positive
+1115053,4395379228,14675232,4,Customer service was excellent and responsive.,App Experience,Positive
+6571834,5466128750,99452902,4,The app experience was smooth and user-friendly.,App Experience,Neutral
+8004497,7073582852,10476482,5,Customer service was excellent and responsive.,App Experience,Positive
+3786231,5713108661,31769923,4,Customer service was excellent and responsive.,Delivery,Neutral
+9354679,5869246737,29636134,4,Customer service was excellent and responsive.,Delivery,Positive
+4522523,1640645390,83090932,5,Customer service was excellent and responsive.,Customer Service,Positive
+6513359,1043692084,60521480,5,Very satisfied with the quick delivery.,Product Quality,Positive
+1365976,7584249491,44450294,4,Customer service was excellent and responsive.,App Experience,Neutral
+1187422,5702474894,88805900,4,The product was damaged during shipping.,Delivery,Neutral
+893744,5836905851,93182738,1,Customer service was excellent and responsive.,App Experience,Negative
+538363,8716571422,1209022,4,Very satisfied with the quick delivery.,Customer Service,Positive
+8261228,7479825924,69037515,4,The delivery was on time and the quality was great.,Product Quality,Positive
+8713964,5232892387,6923984,3,The delivery was on time and the quality was great.,App Experience,Neutral
+312309,4364472948,44186515,5,Very satisfied with the quick delivery.,App Experience,Positive
+7590369,6882948868,44186515,5,Customer service was excellent and responsive.,Delivery,Positive
+3280996,5371422735,29353842,1,Very satisfied with the quick delivery.,Customer Service,Negative
+7475228,2997400293,14675232,4,The delivery was on time and the quality was great.,Product Quality,Positive
+1429327,5463145900,17296128,3,The app experience was smooth and user-friendly.,Customer Service,Neutral
+4606627,5815747557,83188879,1,Customer service was excellent and responsive.,Customer Service,Negative
+2307105,6565196785,44450294,4,Very satisfied with the quick delivery.,Customer Service,Positive
+3658745,6733580888,34271147,4,Customer service was excellent and responsive.,Customer Service,Positive
+9710106,7693016100,82574593,4,Highly recommend this service for groceries!,App Experience,Positive
+4902067,7317245443,29636134,4,The delivery was on time and the quality was great.,Customer Service,Positive
+2507456,7788331197,99452902,2,The product was damaged during shipping.,Delivery,Negative
+9983237,5981118423,46670771,5,Very satisfied with the quick delivery.,App Experience,Positive
+3615667,8061787130,6923984,5,The delivery was on time and the quality was great.,Customer Service,Positive
+2310055,2759578329,21813392,4,The product was damaged during shipping.,Product Quality,Neutral
+2939821,2157365078,44450294,4,The app experience was smooth and user-friendly.,Product Quality,Positive
+786751,9854365192,80802319,1,Customer service was excellent and responsive.,Customer Service,Negative
+7462792,1248978742,95741347,5,"Packaging could be improved, but the product is good.",App Experience,Positive
+93328,5209271412,5359513,1,The delivery was on time and the quality was great.,Product Quality,Negative
+5546047,1535051951,6456463,4,Very satisfied with the quick delivery.,Delivery,Neutral
+2725492,119480919,29636134,4,Highly recommend this service for groceries!,Product Quality,Neutral
