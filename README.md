@@ -1,5 +1,5 @@
 # Blinkit Power BI Dashboard Project 
-
+  
 
 Blinkit, a quick-commerce platform, enables users to order groceries and essentials for 
 delivery in minutes. For businesses operating at this scale, effective data management and 
@@ -8,6 +8,7 @@ operations.
 
 # Final Dashboard
 
+https://github.com/user-attachments/assets/3bee5957-a6cd-49dc-ab42-ebc26d81595c
 
 
 ## Challenge 
